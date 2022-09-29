@@ -45,7 +45,7 @@ for alfa in alfa_calc:
     rtd_somm = sorted_df_pal_tot['Rtd [kN]']
     rcd_psi_somm = sorted_df_pal_tot['psi_t']
     rtd_psi_somm = sorted_df_pal_tot['psi_t']
-                                                                                # CREARE NOMI DEGLI ARRAY NUMPY PER PLOT DOMINIO                                                                                    # CREARE ARRAY NUMPY SALVATO CON IL NOME DELL'ALFA PER PLOTTARLI TUTTI ALLA FINE
+                                                                                                                                                               
     for i in df_palificata['Numero_palo']:
         print(i)
         if i==1:
