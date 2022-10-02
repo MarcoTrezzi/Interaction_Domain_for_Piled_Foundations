@@ -1,5 +1,6 @@
 # Interaction domain for piled foundations
 A widespread design approach for piled foundations subjected to vertical eccentric load is to avoid the overcoming of the ultimate resistance of the most loades pile.
+
 Here an article we wrote on Jupyter Notebook on an alternative method proposed by Di Laora, de Sanctis and Aversa (2018)
 
 # Bibliography
