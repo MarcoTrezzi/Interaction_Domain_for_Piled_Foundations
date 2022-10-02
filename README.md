@@ -5,7 +5,6 @@ Questo è un file dove viene presentato il progetto. Viene formattato come html 
 Questo ad esempio è un <a href="https://www.w3schools.com/html/html_links.asp">link</a>
 
 ## Titolo 2
-Per caricare le immagini basta fare CTRL+C/CTRL+V su questa schermata. 
 ![image](https://user-images.githubusercontent.com/114191578/193475410-f092bfbb-a312-49c6-829b-5e91d792b3cd.png)
 
 
