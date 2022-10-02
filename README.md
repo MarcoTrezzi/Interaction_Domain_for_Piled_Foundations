@@ -3,7 +3,7 @@ A widespread design approach for piled foundations subjected to vertical eccentr
 
 Here an article we wrote on Jupyter Notebook on an alternative method proposed by Di Laora, de Sanctis and Aversa (2018).
 
-# Bibliography
+## Bibliography
 Questo ad esempio è un <a href="https://www.w3schools.com/html/html_links.asp">link</a>
 
 ## Titolo 2
