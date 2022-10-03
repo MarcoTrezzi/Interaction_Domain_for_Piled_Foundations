@@ -4,9 +4,9 @@ import os
 import matplotlib.pyplot as plt
 
 path = os.getcwd()
-# LEGGERE CARATTERISTICHE GEOMTERICHE PALIFICATA E COMBINAZIONI DI CARICO
-df_palificata = pd.read_csv('Dati_palificata.csv', delimiter=',')
-df_carichi = pd.read_csv('Combinazioni_carico.csv', delimiter=',')
+# READ GEOMETRY AND LOADS OF PILE GROUP
+df_piles = pd.read_csv('piles_group.csv', delimiter=',')
+df_loads = pd.read_csv('piles_loads.csv', delimiter=',')
 
 # CREO ARRAY CON VALORI DI ALFA PER IL CALCOLO DEL DOMINIO
 alfa_calc = np.array(list(set(df_carichi['alfa [°]'])))
