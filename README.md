@@ -8,7 +8,7 @@ Questo ad esempio è un <a href="https://www.w3schools.com/html/html_links.asp">
 
 (1) Associazione Geotecnica Italiana (1984), "Raccomandazioni sui pali di fondazione"
 
-(2) Gwidzala K., Large diameter bored piles in non-cohesive soils. Determination of the bearing capacity and settlement from results of static penetration tests (CPT) and standard penetration test (SPT), Swedish Geotechnical Institute, 1984.
+(2) Gwizdala K., Large diameter bored piles in non-cohesive soils. Determination of the bearing capacity and settlement from results of static penetration tests (CPT) and standard penetration test (SPT), Swedish Geotechnical Institute, 1984.
 
 (3) Jamiolkowski M., Lancellotta R. (1988). “Relevance of in situ tests results for evaluation of allowable base resistance of bored piles in sands”. Technological University, Torino, Italy.
 
