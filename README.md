@@ -12,13 +12,13 @@ Questo ad esempio è un <a href="https://www.w3schools.com/html/html_links.asp">
 
 (3) Jamiolkowski M., Lancellotta R. (1988). “Relevance of in situ tests results for evaluation of allowable base resistance of bored piles in sands”. Technological University, Torino, Italy.
 
-(4) Kishida H., «Ultimate bearing capacity of piles driven into loose sand,» Soils and Foundations, vol. 7, n. 3, pp. 20-29, 1967. 
+(4) Kishida H. (1967), «Ultimate bearing capacity of piles driven into loose sand,» Soils and Foundations, vol. 7, n. 3, pp. 20-29. 
 
 (5) Viggiani C (2001). “Analisi e progetto delle fondazioni su pali”, Prima conferenza Arrigo Croce, Rivista Italiana di Geotecnica (AGI).
 
-(6) Viggiani C., Mandolini A. e Russo G., Piles and pile foundations, CRC Press, 2014.
+(6) Viggiani C., Mandolini A. e Russo G. (2014), Piles and pile foundations, CRC Press.
 
-(7) Wright S. J. e Reese L. C., «Design of large diameter bored piles,» Ground Engineering, vol. 12, n. 8, 1979.
+(7) Wright S. J. e Reese L. C. (1979), «Design of large diameter bored piles,» Ground Engineering, vol. 12, n. 8.
 
 ## Titolo 2
 ![image](https://user-images.githubusercontent.com/114191578/193475410-f092bfbb-a312-49c6-829b-5e91d792b3cd.png)
