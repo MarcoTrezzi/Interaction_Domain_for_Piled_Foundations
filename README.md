@@ -4,7 +4,7 @@ A widespread design approach for piled foundations subjected to vertical eccentr
 Here an article we wrote on Jupyter Notebook on an alternative method proposed by Di Laora, de Sanctis and Aversa (2019).
 
 ## Bibliography
-Suggested lectures:
+References:
 
 [1] Associazione Geotecnica Italiana (1984), "Raccomandazioni sui pali di fondazione"
 
