@@ -5,6 +5,7 @@ Here an article we wrote on Jupyter Notebook on an alternative method proposed b
 
 ## Bibliography
 Questo ad esempio è un <a href="https://www.w3schools.com/html/html_links.asp">link</a>
+
 (1) Associazione Geotecnica Italiana (1984), "Raccomandazioni sui pali di fondazione"
 
 (2) Gwidzala K., Large diameter bored piles in non-cohesive soils. Determination of the bearing capacity and settlement from results of static penetration tests (CPT) and standard penetration test (SPT), Swedish Geotechnical Institute, 1984.
