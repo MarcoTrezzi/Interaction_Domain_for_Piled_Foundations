@@ -10,7 +10,7 @@ References:
 
 [2] Di Laora R., de Sanctis L. e Aversa S. (2019), «Bearing capacity of pile groups under vertical eccentric load,» Acta Geotechnica, vol. 14, n. 1
 
-[3] Gwizdala K., Large diameter bored piles in non-cohesive soils. Determination of the bearing capacity and settlement from results of static penetration tests (CPT) and standard penetration test (SPT), Swedish Geotechnical Institute, 1984.
+[3] Gwizdala K. (1984), Large diameter bored piles in non-cohesive soils. Determination of the bearing capacity and settlement from results of static penetration tests (CPT) and standard penetration test (SPT), Swedish Geotechnical Institute.
 
 [4] Jamiolkowski M., Lancellotta R. (1988). “Relevance of in situ tests results for evaluation of allowable base resistance of bored piles in sands”. Technological University, Torino, Italy.
 
