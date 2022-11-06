@@ -14,10 +14,8 @@ References:
 
 [4] Jamiolkowski M., Lancellotta R. (1988). “Relevance of in situ tests results for evaluation of allowable base resistance of bored piles in sands”. Technological University, Torino, Italy.
 
-[5] Kishida H. (1967), «Ultimate bearing capacity of piles driven into loose sand,» Soils and Foundations, vol. 7, n. 3, pp. 20-29. 
+[5] Viggiani C (2001). “Analisi e progetto delle fondazioni su pali”, Prima conferenza Arrigo Croce, Rivista Italiana di Geotecnica (AGI).
 
-[6] Viggiani C (2001). “Analisi e progetto delle fondazioni su pali”, Prima conferenza Arrigo Croce, Rivista Italiana di Geotecnica (AGI).
+[6] Viggiani C., Mandolini A. e Russo G. (2014), Piles and pile foundations, CRC Press.
 
-[7] Viggiani C., Mandolini A. e Russo G. (2014), Piles and pile foundations, CRC Press.
-
-[8] Wright S. J. e Reese L. C. (1979), «Design of large diameter bored piles,» Ground Engineering, vol. 12, n. 8.
+[7] Wright S. J. e Reese L. C. (1979), «Design of large diameter bored piles,» Ground Engineering, vol. 12, n. 8.
