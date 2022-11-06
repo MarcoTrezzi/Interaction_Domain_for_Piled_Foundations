@@ -21,10 +21,3 @@ References:
 [7] Viggiani C., Mandolini A. e Russo G. (2014), Piles and pile foundations, CRC Press.
 
 [8] Wright S. J. e Reese L. C. (1979), «Design of large diameter bored piles,» Ground Engineering, vol. 12, n. 8.
-
-## Titolo 2
-![image](https://user-images.githubusercontent.com/114191578/193475410-f092bfbb-a312-49c6-829b-5e91d792b3cd.png)
-<img width="452" alt="Questa è un immagine" src="https://user-images.githubusercontent.com/64694875/192977065-4e79d147-41b6-4841-89cf-1d362d250fe3.png">
-
-
-
